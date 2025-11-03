@@ -12,5 +12,8 @@ for i in range(5):
   print i
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
